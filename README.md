@@ -1,7 +1,4 @@
 # CrossRelief
-In this paper, we introduce CrossRelief, which is an extension of the ReliefF algorithm, but designed for feature selection in multi-cohort settings.
-
-# CrossRelief
 
 CrossRelief is an extension of the ReliefF algorithm designed for **feature selection across multiple datasets**. While ReliefF focuses on nearest-neighbor comparisons within a single dataset, CrossRelief generalizes this approach to operate in multi-cohort settings. This enables identification of features that discriminate between classes across heterogeneous studies, such as those commonly encountered in transcriptomics and biomedical research.
 
